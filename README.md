@@ -4,26 +4,24 @@ This is a University Event Management System, implemented in C++. It allows stud
 
 Features
 --------
-Student Role:
-------------
+1)Student Role:
+
 View fest information: Students can view information about upcoming fests organized by different clubs.
 View workshop information: Students can view information about upcoming workshops organized by different workshop organizers.
 Register for fests: Students can register for fests by providing their name and email.
 Register for workshops: Students can register for workshops by providing their name and email.
-Club Member Role:
------------------
+2)Club Member Role:
+
 Announce fests:
----------------
 Club members can announce fests by providing the fest name and date. The fest information will be stored and can be viewed by students.
 View registered students for fests: 
-----------------------------------
 Club members can view the list of students registered for their club's fests.
-Workshop Organizer Role:
------------------------
+3)Workshop Organizer Role:
+
 Announce workshops:
-------------------
 Workshop organizers can announce workshops by providing the workshop name and information. The workshop information will be stored and can be viewed by students.
-View registered students for workshops: Workshop organizers can view the list of students registered for their workshops.
+View registered students for workshops:
+Workshop organizers can view the list of students registered for their workshops.
 Usage
 -------
 Compile the C++ program using a C++ compiler.
@@ -34,8 +32,13 @@ Interact with the program to view event information, register for events, announ
 Contact
 -------
 Project name:campus connect and virsityvibe
+
 Name:Dipesh Talukdar
+
 Batch:2K20
+
 Roll:2007063
+
 Section:B
+
 Email:talukder2007063@stud.kuet.ac.bd
